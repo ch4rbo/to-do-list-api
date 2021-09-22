@@ -17,7 +17,7 @@ const Home = () => {
 
 	return (
 		<div className="text-center mt-5">
-			<h1>To do list</h1>
+			<h1 id="titulo">To do list</h1>
 			<div>
 				<input
 					type="text"
